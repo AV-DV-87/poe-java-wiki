@@ -5,7 +5,7 @@ Wiki collaboratif pour le partage de contenus sur la POE JAVA :
 * code utile
 
 # Utilisation
-Vous pouvez déposez du code pour pouvoir faire un lien direct dans la documentation.
+Vous pouvez déposer du code pour pouvoir faire un lien direct dans la documentation.
 
 La documentation se trouve dans **l'onglet WIKI de ce repository**.
 
