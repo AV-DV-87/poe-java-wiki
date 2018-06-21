@@ -14,6 +14,7 @@ Si nécessaire vous pouvez **cloner** le repository pour ajouter plus facilement
 # Mise en forme :
 La mise en forme du wiki sous forme de pages dont vous pouvez ajouter le lien dans la bar de navigation droite manuellement.
 Cette mise en forme utilise __la syntaxe markdown__ comme les readme des différents repository.
+
 [Markdown guide de syntax](https://guides.github.com/features/mastering-markdown/)
 
 
