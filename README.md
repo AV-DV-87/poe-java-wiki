@@ -1,3 +1,5 @@
+# [ACCES DIRECT AU WIKI](https://github.com/AV-DV-87/poe-java-wiki/wiki)
+
 # WIKI JAVA POE
 Wiki collaboratif pour le partage de contenus sur la POE JAVA :
 * synthèse des cours
